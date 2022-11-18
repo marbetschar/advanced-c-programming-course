@@ -3,4 +3,4 @@ project(16_Advanced_Pointers C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(16_Advanced_Pointers main.c double-pointers.c challenges.h pointer-args.c)
+add_executable(16_Advanced_Pointers main.c double-pointers.c challenges.h pointer-args.c function-pointers.c)

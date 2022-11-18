@@ -7,5 +7,6 @@
 
 int main_double_pointers();
 int main_pointer_args();
+int main_function_pointers();
 
 #endif //INC_16_ADVANCED_POINTERS_CHALLENGES_H
